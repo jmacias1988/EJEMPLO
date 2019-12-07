@@ -1,0 +1,16 @@
+buenas noches profesor.
+
+la base de datos esta creada en MYSQL con el nombre de agendmart.sql.
+
+el MYSQL lo contraseña=root1234 y usuario=root.
+
+el proyecto esta diseñado en Java Netbens.
+.
+
+ basado en  el video 
+
+https://www.youtube.com/watch?v=S-FGoEBjTSA&t=716s
+
+https://www.youtube.com/watch?v=5lNvStyz9Ao
+
+en la carpeta  dist se realizo el ejecutable.
